@@ -161,7 +161,7 @@ def list_windows():
         table.add_row([
             window.process_id(),
             process,
-            window.window_text()[:70] + ("..." if len(window.window_text()) > 70 else ""),
+            window.window_text()[:50] + ("..." if len(window.window_text()) > 50 else ""),
             "Yes" if window.is_minimized() else "No"
         ])
 
