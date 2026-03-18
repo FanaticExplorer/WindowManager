@@ -1,3 +1,7 @@
+## I am planning to fully rewrite this project from scratch, and probably I will use Go for that. This repo will be archived from now on.
+
+---
+
 # WindowManager
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
