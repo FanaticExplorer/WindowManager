@@ -1,4 +1,8 @@
-## I am planning to fully rewrite this project from scratch, and probably I will use Go for that. This repo will be archived from now on.
+## This project has been rewritten in Go as **WinOrchestra**.
+
+➡️ New repository: [FanaticExplorer/WinOrchestra](https://github.com/FanaticExplorer/WinOrchestra)
+
+This repo is archived and kept for historical reference.
 
 ---
 
